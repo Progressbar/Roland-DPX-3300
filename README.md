@@ -7,8 +7,9 @@ We can now operating this excellent drafting plotter from network, but we just n
 
 PR is welcome!
 
-### 
-Hints
+### Hints
 
-Page 85 Coordinate System
-Page 263 List of RD-GL II Commands
+* Page 85 - Coordinate System
+* Page 263 - List of RD-GL II Commands
+
+Missing info about network settings
