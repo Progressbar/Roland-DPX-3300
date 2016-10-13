@@ -12,4 +12,5 @@ PR is welcome!
 * Page 85 - Coordinate System
 * Page 263 - List of RD-GL II Commands
 
-Missing info about network settings
+Directory DPX-fw contains arduino sketch for wifi to serial bridge running on ESP8266.
+The ESP is running a tcp server on port 23, one client allowed.
